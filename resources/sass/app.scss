@@ -1,0 +1,39 @@
+//
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(179, 255, 0);
+    color: black;
+    text-align: center;
+}
+
+header {
+    background-color: royalblue;
+    color: white;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: royalblue;
+    color: white;
+    margin-top: 50px;
+}
+
+a {
+    color: black;
+}
+
+
+.edit {
+    background-color: orange;
+    padding: 0 10px;
+}
+
+.delete {
+    background-color: red;
+    padding: 0 10px;
+}
